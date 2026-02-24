@@ -1,17 +1,3 @@
-<h1 align="center">Nick Brezinski</h1>
-<p align="center">
-  Full-Stack SWE • AI/ML • Japan-focused builder
-</p>
-
-<p align="center">
-  <a href="https://nickbrezinski.dev">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/nicholasbrezinski/">LinkedIn</a> •
-  <a href="mailto:nicholashbrezinski@gmail.com">Email</a> •
-  <a href="">Resume</a>
-</p>
-
----
-
 ### 👋 About me
 I’m a software engineer who likes building **useful, real-world tools**—especially where utility is measurable.  
 Recently: making things I could see myself and my peers using.
