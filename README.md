@@ -1,6 +1,6 @@
 ### 👋 About me
-I’m a software engineer who likes building **useful, real-world tools**—especially where utility is measurable.  
-Recently: making things I could see myself and my peers using.
+Recent new grad from the University of North Carolina at Charlotte in CS interested software engineer who likes building **useful, real-world tools**—especially where utility is measurable.  
+Recently: Making things I could see myself and my peers using.
 
 - 📍 Based in Japan (Tokyo area)
 - 🎯 Interested in: **SWE (Full-Stack)**, **AI/ML**, **Data**, and engineering roles where I can learn and grow
